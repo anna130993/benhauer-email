@@ -17,7 +17,7 @@
 img {
     width: 500px;
     max-width: 100%;
-    height: 350px;
+    height: 330px;
 }
 
 .tbl-container {
@@ -57,7 +57,7 @@ img {
 
 .material-icons-outlined.md-21 {
     font-size: 21px;
-    font-weight: bolder;
+    font-weight: 500;
 }
 
 .icon-info {
